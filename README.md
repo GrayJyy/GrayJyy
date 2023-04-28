@@ -1,10 +1,4 @@
 ### hey there 
-<a href="https://twitter.com/GrayyyJiang0602">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-![](https://visitor-badge.glitch.me/badge?page_id=GrayJyy.GrayJyy)
-
-<br />
 
 hi, i'm [GrayJyy](https://github.com/GrayJyy).Currently, I work as a React Front-End Developer and continuously strive to develop my skills as a Full-Stack Web3 Developer. My passion for software development drives me to keep pushing forward, and the process of learning and self-improvement is both challenging and rewarding. I always hold my code to the highest standards, and my ultimate goal is to become a proficient Web3 Development Engineer.
 
