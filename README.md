@@ -26,6 +26,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GrayJyy&show_icons=true&theme=gotham" alt="GrayJyy" />
 <br />
 <!--START_SECTION:waka-->
+
+```text
+Rust   49 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
