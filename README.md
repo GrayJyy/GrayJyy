@@ -6,16 +6,19 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
   <img align="right" alt="GIF" src="https://github.com/GrayJyy/GrayJyy/blob/master/code.gif?raw=true" width="500" height="320" />
+  <a href="https://www.flaticon.com/free-icons/solid" title="solid icons">Solid icons created by Freepik - Flaticon</a>
   
 - 💼 any freelance work? do reach, [email](mailto:Gray_Jy@yeah.net) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"></code>
+<code><img height="20" src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/typescript-512.png"></code>
+<code><img height="20" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png"></code>
+<code><img height="20" src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Ethereum-512.png"></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/rust-512.png"></code>
+
 
 
 📈 my github stats
