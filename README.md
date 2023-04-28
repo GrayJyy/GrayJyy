@@ -17,6 +17,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" alt="React"></code>
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Ethereum-512.png" alt="Solidity"></code>
 <code><img height="20" src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg" alt="Rust"></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-512.png" alt="git"></code>
 
 
 
