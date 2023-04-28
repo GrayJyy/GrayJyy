@@ -6,8 +6,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
   <img align="right" alt="GIF" src="https://github.com/GrayJyy/GrayJyy/blob/master/code.gif?raw=true" width="500" height="320" />
-  <a href="https://www.flaticon.com/free-icons/solid" title="solid icons">Solid icons created by Freepik - Flaticon</a>
-  
+
 - 💼 any freelance work? do reach, [email](mailto:Gray_Jy@yeah.net) :)
 - 💬 ask me about anything, i am happy to help;
 
