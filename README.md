@@ -30,7 +30,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Rust   49 mins         █████████████████████████   100.00 %
+Rust       1 hr 50 mins    ████████████████████████░   95.96 %
+Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
