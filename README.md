@@ -18,8 +18,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.hLdG6hXQE4Dfil6090lrDEuGdsHbfQUijpy5RvzXjSg" alt="nestjs"></code>
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png" alt="docker"></code>
 <code><img height="20" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/nginx_logo-128.png" alt="nginx"></code>
+<code><img height="20" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-1024.png" alt="mysql"></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-128.png" alt="mongodb"></code>
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Ethereum-512.png" alt="Solidity"></code>
-<code><img height="20" src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg" alt="Rust"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-512.png" alt="git"></code>
 
 
