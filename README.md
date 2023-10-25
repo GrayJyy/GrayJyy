@@ -15,9 +15,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript"></code>
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" alt="React"></code>
+<code><img height="20" src="[https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-512.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27714%2Fnestjs&psig=AOvVaw1uKF-8ufsuAxADEY_t4-UT&ust=1698332006226000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiQk_G5kYIDFQAAAAAdAAAAABAE)" alt="nestjs"></code>
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Ethereum-512.png" alt="Solidity"></code>
 <code><img height="20" src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg" alt="Rust"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-512.png" alt="git"></code>
+
 
 
 
