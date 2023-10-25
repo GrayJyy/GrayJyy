@@ -19,7 +19,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png" alt="docker"></code>
 <code><img height="20" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/nginx_logo-128.png" alt="nginx"></code>
 <code><img height="20" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-1024.png" alt="mysql"></code>
-<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-128.png" alt="mongodb"></code>
+<code><img height="20" src="https://cdn2.iconfinder.com/data/icons/web-development-pins/137/mongo_pin-512.png" alt="mongodb"></code>
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Ethereum-512.png" alt="Solidity"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-512.png" alt="git"></code>
 
