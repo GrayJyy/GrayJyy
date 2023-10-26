@@ -1,6 +1,6 @@
 ### hey there 
 
-hi, i'm [GrayJyy](https://github.com/GrayJyy).Currently, I work as a React Front-End Developer and continuously strive to develop my skills as a Full-Stack Web3 Developer. My passion for software development drives me to keep pushing forward, and the process of learning and self-improvement is both challenging and rewarding. I always hold my code to the highest standards, and my ultimate goal is to become a proficient Web3 Development Engineer.
+hi, i'm [GrayJyy](https://github.com/GrayJyy).Currently, I work as a React Front-End Developer and continuously strive to develop my skills as a Full-Stack Web3 Developer. My passion for software development drives me to keep pushing forward, and the process of learning and self-improvement is both challenging and rewarding. I always hold my code to the highest standards, and my ultimate goal is to become a proficient Fullstack Development Engineer.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
